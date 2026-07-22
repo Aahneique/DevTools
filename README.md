@@ -11,6 +11,18 @@ A personal reference of all the tools, apps, platforms and plugins I use/used.
 
 ---
 
+## IDE 
+
+- [**VSC**](https://code.visualstudio.com) - lightweight, highly customisable code editor built for rapid web and cloud development.
+- [**Visual Studio 2026**](https://visualstudio.microsoft.com) - Heavy-duty, full-featured IDE optimised for enterprise .NET and C++ software engineering.
+- [**Anti-Gravity**](https://antigravity.google/product/antigravity-ide) - VSC 
+
+### Plugins
+- **GitLens** - Visualises code authorship and branch history directly inside your editor.
+- **Live Server** - Launches a local development server with live reload for static pages.
+- **Prettier** - Enforces a consistent style by automatically formatting your code on save.
+
+
 ## Game Development & 3D
 
 ### Game Engines
@@ -42,7 +54,7 @@ A personal reference of all the tools, apps, platforms and plugins I use/used.
 
 ### Customization and QoL
 - [**Oh My Zsh**](https://ohmyz.sh) - Framework that makes configuring Zsh easy with themes and plugins.
-- [**PowerLevel10K**](https://github.com/romkatv/powerlevel10k) - Ultra-fast, highly customisable theme for Zsh that displays dynamic visual information like Git status and execution times
+- [**PowerLevel10K**](https://github.com/romkatv/powerlevel10k) - Ultra-fast, highly customisable theme for Zsh that displays dynamic visual information like Git status and execution times.
 
 ---
 
